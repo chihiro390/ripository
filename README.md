@@ -1,4 +1,4 @@
-# ripository
+﻿# ripository
 -readme  
  -test  
  -test  
@@ -9,3 +9,4 @@
   -aaa  
   
 >おにぎり食べたい。
+>お肉
