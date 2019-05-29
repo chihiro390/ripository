@@ -8,5 +8,5 @@
  -AAA  
   -aaa  
   
->readmeを作ってみた。　　
+>readmeを作ってみた。  
 >readmeを書いた。
